@@ -30,7 +30,7 @@
 ## Contact:
 [![](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neilalbuquerque/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=albuquerqueneil2000@gmail.com)
-![](https://img.shields.io/badge/WarMVP%238269-141321?style=for-the-badge&logo=discord)
+![](https://img.shields.io/badge/WarMVP%232237-141321?style=for-the-badge&logo=discord)
 
 ![neilalbuquerque github stats](https://github-readme-stats.vercel.app/api?username=neilalbuquerque&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilalbuquerque&theme=tokyonight&langs_count=10&layout=compact)
